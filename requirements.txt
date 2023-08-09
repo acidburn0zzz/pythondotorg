@@ -29,7 +29,7 @@ python-dateutil==2.4.0
 
 django-timedeltafield==0.7.3
 
-requests==2.5.1
+requests==2.31.0
 
 django-jsonfield==0.9.13
 git+https://github.com/danirus/django-comments-xtd.git@182b54afc62e5d3967be75ac6ed8b19071764a6d
